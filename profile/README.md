@@ -1,6 +1,6 @@
 # Hi there 👋!
 
-Welcome to my GitHub organization based on my personal profile [@jacobnicked](https://github.com/jacobnicked)!
+Welcome to my GitHub Organization based on my personal profile [@jacobnicked](https://github.com/jacobnicked)!
 
 <div style="display: flex; align-items: center; justify-content: center;">
   
