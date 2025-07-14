@@ -1,5 +1,7 @@
 # Hi there 👋!
 
+Welcome to my GitHub organization based on my personal profile [@jacobnicked](https://github.com/jacobnicked)!
+
 <div style="display: flex; align-items: center; justify-content: center;">
   
   ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jacobnicked&theme=github_dark)
